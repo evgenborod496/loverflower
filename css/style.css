@@ -279,7 +279,8 @@ a {
 }
 
 .gallery {
-	display: flex;
+    display: flex;
+    justify-content: center;
 }
 
 .gallery__image {
